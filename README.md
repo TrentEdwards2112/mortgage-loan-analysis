@@ -28,7 +28,7 @@ This project analyzes mortgage loan data using SQL (MySQL) and Tableau to identi
 
 ## 📈 Key Insight
 
-States with higher average loan amounts (CA, NY) show lower approval rates, while lower loan amount states (OH, IL) show higher approval rates, indicating that loan size may be a factor in approval outcomes.
+This dashboard highlights trends in mortgage approvals, loan sizes, and regional lending patterns across states.
 
 ---
 This dashboard summarizes approval rates, loan amounts, and loan volume across states.

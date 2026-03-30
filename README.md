@@ -32,6 +32,7 @@ States with higher average loan amounts (CA, NY) show lower approval rates, whil
 
 ---
 This dashboard summarizes approval rates, loan amounts, and loan volume across states.
+This dashboard highlights key trends in mortgage approvals, loan sizes, and regional lending patterns.
 ## 📊 Dashboard
 
 ![Mortgage Dashboard](dashboard/tableau_dashboard.png)

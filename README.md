@@ -31,8 +31,7 @@ This project analyzes mortgage loan data using SQL (MySQL) and Tableau to identi
 This dashboard highlights trends in mortgage approvals, loan sizes, and regional lending patterns across states.
 
 ---
-This dashboard summarizes approval rates, loan amounts, and loan volume across states.
-This dashboard highlights key trends in mortgage approvals, loan sizes, and regional lending patterns.
+
 ## 📊 Dashboard
 
 ![Mortgage Dashboard](dashboard/tableau_dashboard.png)

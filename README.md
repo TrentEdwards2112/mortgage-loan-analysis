@@ -34,4 +34,4 @@ States with higher average loan amounts (CA, NY) show lower approval rates, whil
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Mortgage Dashboard](dashboard/tableau_dashboard.png)

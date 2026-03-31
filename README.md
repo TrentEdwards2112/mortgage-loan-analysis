@@ -1,6 +1,8 @@
 # Mortgage Loan Analysis
 
-This project analyzes mortgage loan data using SQL (MySQL) and Tableau to identify trends in loan approvals, loan amounts, and loan volume across states.
+This project analyzes mortgage loan data using SQL (MySQL) and Tableau to identify patterns in loan approvals, loan amounts, and loan volume across states.
+
+The analysis focuses on uncovering relationships between loan size and approval likelihood, supported by both SQL queries and a Tableau dashboard.
 
 ---
 
@@ -35,7 +37,14 @@ sql/mortgage_analysis.sql
 
 ## 📈 Key Insight
 
-States with higher average loan amounts (CA, NY) show lower approval rates, while lower loan amount states (OH, IL) show higher approval rates, indicating that loan size may be a factor in approval outcomes.
+States with higher average loan amounts (e.g., CA, NY) tend to have lower approval rates, while states with lower loan amounts (e.g., OH, IL) show higher approval rates, suggesting an inverse relationship between loan size and approval likelihood.
+
+---
+## 📊 Key Metrics Analyzed
+
+- Approval Rate by State
+- Average Loan Amount by State
+- Total Loan Volume by State
 
 ---
 

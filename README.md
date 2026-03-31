@@ -26,6 +26,13 @@ This project analyzes mortgage loan data using SQL (MySQL) and Tableau to identi
 
 ---
 
+## 🧮 SQL Analysis
+
+Core SQL queries used in this project can be found in:
+sql/mortgage_analysis.sql
+
+---
+
 ## 📈 Key Insight
 
 States with higher average loan amounts (CA, NY) show lower approval rates, while lower loan amount states (OH, IL) show higher approval rates, indicating that loan size may be a factor in approval outcomes.
